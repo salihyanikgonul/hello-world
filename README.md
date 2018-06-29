@@ -6,7 +6,7 @@ A hello world project
 Another paragraph
 
 '''
-<p>This is some text<p>
+<p>This is some text</p>
 '''
 
 1. This
